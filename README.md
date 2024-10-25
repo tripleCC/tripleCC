@@ -3,3 +3,13 @@
 
 llvm-project
 - https://github.com/llvm/llvm-project/pull/67563
+- https://github.com/llvm/llvm-project/commit/993060e1d31d07e9c44e7164d24f9f495197ca87
+- https://github.com/llvm/llvm-project/commit/fa6b7dd520fc175a246c943a7c9802e4808118b1
+- https://github.com/llvm/llvm-project/commit/77a599ae5828df343e2aa6acc634fe9acb152c99
+
+
+CocoaPods
+- https://github.com/CocoaPods/CocoaPods/pull/8404
+- https://github.com/CocoaPods/CocoaPods/pull/8418
+- https://github.com/CocoaPods/CocoaPods/pull/8549
+- https://github.com/CocoaPods/CocoaPods/pull/8569
