@@ -15,3 +15,6 @@ llvm-project
 - https://github.com/llvm/llvm-project/commit/77a599ae5828df343e2aa6acc634fe9acb152c99
 - https://github.com/llvm/llvm-project/commit/b22a5d46179b0ec2d5350c078dc349f09177b9ed
 
+kotlin
+- https://github.com/JetBrains/kotlin/pull/5386
+
